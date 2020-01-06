@@ -1,0 +1,11 @@
+2020.01.06
+-git 설치
+-github 가입
+-notion 가입
+-노마드코더 강의듣기
+#0.1 Requirements
+#0.2 What are we building
+#1.1 Why JS
+#1.2 Super Power of JS
+#1.3 ES5,ES6,ESWTF?
+ 
